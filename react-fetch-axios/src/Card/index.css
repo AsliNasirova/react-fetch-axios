@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    object-fit: cover;
+    
+}
+img{
+    width: 180px;
+    height: 100px;
+}
+.text_content{
+    font-size: 12px;
+    text-align: center;
+}
+.card{
+    border: 1px solid black;
+    box-shadow: 2px 2px;
+}
